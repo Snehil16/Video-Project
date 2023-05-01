@@ -8,7 +8,7 @@
 - Aibar Talip (at4888@nyu.edu)
 
 
-# Project Description: 
+# Project Description
 
 Our website is designed to be a one-stop-shop for all things Interactive Media. It offers a comprehensive overview of the Interactive Media program at NYUAD and showcases the incredible work of our students. As the digital world continues to evolve, the need for individuals with expertise in interactive media is increasing. We understand that incoming students and pre-major students may not be fully aware of the breadth and depth of what Interactive Media has to offer, and so we wanted to create a platform that would showcase the exciting and innovative projects that our students are working on. One of the main goals of our website is to demonstrate the versatility of the Interactive Media major. Through the projects displayed on our website, visitors can see how IM combines technical skills with creative problem solving to create engaging and impactful experiences. We hope to inspire and encourage students who may not have considered Interactive Media as a major to explore the possibilities that it offers.
 
@@ -21,7 +21,7 @@ This project is a creative and innovative use of technology to showcase the Caps
 The project also shows creativity in its approach to storytelling, taking the user through a narrative that starts with waking up in their room and going through their morning routine. This approach adds a personal touch to the experience, making it more relatable to the user and helping to create a stronger emotional connection.
 
 
-# Process: 
+# Process
 
 
 ## Video Shooting Process
@@ -57,7 +57,7 @@ The video had different buttons that enabled users to perform various actions su
 We took a creative and innovative approach to creating the website. Despite facing challenges, we worked collaboratively and found solutions to create a functional and visually appealing website. Our design showcased our capstone projects in a black box, and the interactive video added an element of interactivity and engagement. Our success in creating this website was a testament to our hard work, creativity, and ability to overcome challenges.
 
 
-# Reflection/Evaluation: 
+# Reflection/Evaluation
 
 The initial concept of our project was to explore only one of the Capstone projects and build our theme around the idea of that specific project. After much discussion, we decided that this idea was too narrow in scope and didn't allow for a full representation of the variety of projects being showcased. Therefore, we pivoted to a broader theme that would showcase the overall experience of visiting the Black Box and engaging with the various Capstone projects on display. We wanted to create a virtual experience that would allow visitors to fully immerse themselves in the showcase and get a sense of what each project entailed.
 
