@@ -1,4 +1,4 @@
-# Video-Project
+# Join The Journey: A Virtual Tour of NYUAD's IM Capstone Showcase
 
 
 # Project Members
@@ -6,10 +6,6 @@
 - Snehil Ahuja (sa5782@nyu.edu)
 - Muhammad Moeez Tariq (mt4610@nyu.edu)
 - Aibar Talip (at4888@nyu.edu)
-
-
-# Project Name
-- Inside the Black Box: A Capstone Journey
 
 
 # Project Description: 
