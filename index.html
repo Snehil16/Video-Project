@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Video Project</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+
+<body class="imageBackground">
+  <div id="popup-container">
+    <div id="popup-content">
+      <h2>Guide To Interactive Virtual Tour</h2>
+      <p>This virtual tour offers an immersive experience of capstone projects, presenting a range of options at each
+        project site. Participants can choose to view a specific project or continue to another, with the opportunity to
+        revisit or exit the tour upon completion.</p>
+      <button class="close-button" onclick="closePopup()">Got It!</button>
+    </div>
+  </div>
+  <div class="mainContainer">
+    <h1>Virtual Tour: IM_CAPSTONE_final_FINAL</h1>
+    <h2>What Lies Beyond?</h2>
+    <div class="videoContainer">
+      <div id="vimeoPlayer" data-vimeo-id="822453988"></div>
+      <div class="buttons">
+        <button id="play-video" class="button">Play Video</button>
+
+        <!-- two buttons css for project 1 -->
+        <button id="project1" class="buttonLeft" style="display: none">View Project 1</button>
+        <button id="continue" class="buttonRight" style="display: none">Continue Tour</button>
+
+        <!-- two buttons css for project 2 -->
+        <button id="project2" class="buttonLeft" style="display: none">View Project 2</button>
+        <button id="continue2" class="buttonRight" style="display: none">Continue Tour</button>
+
+        <!-- two buttons css for project 3 -->
+        <button id="project3" class="buttonLeft" style="display: none">View Project 3</button>
+        <button id="continue3" class="buttonRight" style="display: none">Continue Tour</button>
+
+        <!-- two buttons css for project 4 -->
+        <button id="project4" class="buttonLeft" style="display: none">View Project 4</button>
+        <button id="continue4" class="buttonRight" style="display: none">Continue Tour</button>
+
+        <!-- two buttons css for exit or revisit -->
+        <button id="exit" class="buttonLeft" style="display: none">Exit</button>
+        <button id="revisit" class="buttonRight" style="display: none">Revisit</button>
+
+      </div>
+    </div>
+
+    <button id="back-button" onclick="location.href='firstpage.html'">
+      <i class="fas fa-arrow-circle-left"></i>
+    </button>
+  </div>
+  <script src="https://player.vimeo.com/api/player.js"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>
