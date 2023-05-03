@@ -48,7 +48,7 @@ Finally, we learned how to do color-grading from a mutual, which involved adjust
 
 ## Website Process
 
-The process of creating the website was a complex one, and we had to consider various factors such as interactivity and design. Our video is based on capstone projects in Black Box, and we designed the website around this concept. We also created a simple yet creative navigation system where a card sliding animation was activated upon hovering over different images on the screen. We drew inspiration for this design element from Codepen and edited the code to suit the website's overall style.
+The process of creating the website was a complex one, and we had to consider various factors such as interactivity and design. Our video is based on capstone projects in Black Box, and we designed the website around this concept. We also created a simple yet creative navigation system where a card sliding animation was activated upon hovering over different images on the screen. We drew inspiration for this design element from [Codepen](https://codepen.io/codev_land/pen/yLXeyWX) and edited the code to suit the website's overall style.
 
 One of the most challenging yet best parts of the website was the interactive video that we created. We faced difficulties hosting the video due to its large size. Uploading it to Github or hosting it on Github pages was not possible. We then had the idea to use Vimeo and embed it in our code. However, we wanted to control the video with buttons, which was not possible with the embedded Vimeo code. To solve this, we used Vimeo API to host the video and control it with different buttons. This approach allowed us to control the video and provide users with a more engaging experience.
 
